@@ -1,6 +1,7 @@
 # Practice Go
 
 ## A Tour of Go
+次は array から
 
 ### 
 ### 飛ばした内容
